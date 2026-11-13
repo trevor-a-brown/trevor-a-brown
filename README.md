@@ -1,16 +1,21 @@
-## Hi there 👋
+# Trevor Brown
 
-<!--
-**trevor-a-brown/trevor-a-brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI newsroom developer · Houston Chronicle
 
-Here are some ideas to get you started:
+I’m a journalist and developer working with reporters and editors to build useful newsroom tools and explore responsible uses of AI in local journalism.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Reporting tools:** making records and data easier to explore.
+- **Newsroom workflows:** testing practical ways to give journalists more time for reporting.
+- **Shared learning:** helping colleagues try tools, evaluate results and develop workflows they can use themselves.
+
+## Background
+
+Before joining the Chronicle, I worked in investigative and data journalism at Oklahoma Watch and covered state government for the Wyoming Tribune Eagle.
+
+[Read the Chronicle’s introduction](https://www.houstonchronicle.com/about/newsroom-news/article/brown-ai-developer-22495027.php)
+
+---
+
+This is my work GitHub account. Internal projects and reporting materials remain private.
